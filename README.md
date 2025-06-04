@@ -62,4 +62,4 @@ I help small- and mid-sized businesses adopt AI responsibly, stay compliant, and
 
 <!-- Reference: Product scope template used for project repositories.
 ![image1](image1) -->
-"Update my profile README"
+
